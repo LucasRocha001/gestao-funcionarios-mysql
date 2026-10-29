@@ -16,6 +16,7 @@ O projeto foi desenvolvido para aprimorar habilidades em modelagem de dados, con
 
 ## 🗂️ Estrutura do Projeto
 
+
 ```text
 gestao-funcionarios-mysql/
 │
@@ -25,6 +26,7 @@ gestao-funcionarios-mysql/
 ├── 04_funcoes.sql
 └── README.md
 ```
+
 
 ### Descrição dos Arquivos
 
